@@ -1,0 +1,2 @@
+<p>Bonjour je suis actuellement un élève de l'université Epinay Paris Nord, je suis en formation en BUT informatique. Je m'intéresse au différents language de programation comme le Java, le python, le javascript, le SQL etc...</p>
+<p>Certe je n'ai pas beaucoup d'expérience actuellement mais je suis toujours à l'écoute et j'essaie de mon mieux de comprendre ce qu'on m'explique pour être à l'hauteur de ce qu'on attend de moi.</p>
