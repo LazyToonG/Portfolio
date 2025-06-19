@@ -70,12 +70,14 @@ public class Echiquier {
     }
 }
 ```
+---
 ## Compétences acquises même si le projet n’a pas été achevé, il nous a permis de :
 -Renforcer notre compréhension de la programmation orientée objet en Java ;
 -Apprendre à organiser un projet complexe en plusieurs classes ;
 -Travailler sur des structures logiques poussées (gestion de pièces, déplacements, règles de jeu...) ;
 -Apprendre à manier GitHub et en même temps le travail en équipe.
 -Ce projet nous a poussés à sortir de notre zone de confort et à travailler en autonomie dans un environnement complexe, ce qui est très formateur.
+---
 
-Extrait de l'énoncé
+## Extrait de l'énoncé
 ![Extrait de l'énoncé](https://imgur.com/rw2uScm.png)
