@@ -54,7 +54,7 @@ CREATE TABLE disaster (
 ```
 Ce projet n'était pas vraiment suivi donc on ne nous demandait pas de faire des requêtes précise étape par étape, mais à la place on nous a laissé de l'autonomie avec une consigne assez large. Donc dans ce projet on a vu et mieux compris toutes les étapes de la création d'une table bien que théorique avec les représentations graphique que pratique avec les requêtes de création et de peuplement des tables.
 
-## L'AGL des tables SqL:
+## L'AGL des tables SQL :
 
 ![L'AGL des tables SqL](https://imgur.com/dneekMS.png)
 
