@@ -1,6 +1,6 @@
 ## Sommaire
 
-- [SAE 1.01 - Implémentation](S101_Implémentation.md)
+- [S1.01 - Implémentation](S101_Implémentation.md)
 - [S1.02 - Comparaison d'algorithmes](S102_Comparaison_d'algo.md)
 - [S1.03 - Installation de poste](S103_Installation_poste.md)
 - [S1.04 - Création d'une base de données](S104_Création_BD.md)
