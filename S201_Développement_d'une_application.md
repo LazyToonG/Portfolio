@@ -79,5 +79,5 @@ public class Echiquier {
 - Ce projet nous a poussés à sortir de notre zone de confort et à travailler en autonomie dans un environnement complexe, ce qui est très formateur.
 ---
 
-## Extrait de l'énoncé
+
 ![Extrait de l'énoncé](https://imgur.com/rw2uScm.png)
