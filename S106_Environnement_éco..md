@@ -22,13 +22,10 @@ Nous avons donc rédigé un **rapport d’analyse** sur :
 
 Voici un extrait de la partie « Améliorations » de notre rapport :
 
-> **Pour les bâtiments des data centers situés dans des zones ensoleillées, il serait pertinent d’installer des panneaux solaires sur les toits ou à proximité.**  
->  
-> **S’ils sont implantés près de l’océan, des hydroliennes pourraient être exploitées afin de produire de l’électricité à partir des courants marins.**  
->  
-> **En cas de surplus d’énergie produit, OVH pourrait la revendre et l’exporter vers d’autres structures. En contrepartie, ils pourraient importer de l’énergie bas carbone, comme celle produite par des centrales nucléaires.**  
->  
-> **Une autre idée serait de rapprocher les data centers des centrales nucléaires pour limiter les pertes liées au transport d’énergie, et ainsi optimiser l’alimentation des serveurs.**
+> **Pour les bâtiments des data centers dont le ciel n’est pas couvert, ils peuvent installer sur leurs toits ou à proximité des panneaux solaires.
+Si leur position est proche de l’océan, ils peuvent utiliser des hydroliennes à leur avantage grâce au courant de l’eau pour produire de l’électricité.
+Et si OVH a un surplus d'énergie, alors ils peuvent la revendre et l’exporter à ceux qui en ont besoin. En retour, ils peuvent importer de l’énergie comme le nucléaire, qui est la source d’énergie la plus efficace et durable.On pourrait donc rapprocher les data centers des centres nucléaires afin d’utiliser pleinement l’énergie produite pour alimenter leurs serveurs.
+**
 
 ---
 
