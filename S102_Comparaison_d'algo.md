@@ -7,7 +7,7 @@ Dans ce projet réalisé en binôme, nous devions programmer différentes foncti
 - le **tri par sélection**,
 - et le **tri rapide** (quicksort).
 
-Ce projet était une **suite logique** du travail effectué lors de la [SAE 1.01 - Implémentation](#https://github.com/LazyToonG/Portfolio/blob/main/S101_Implémentation.md), et reprenait une structure similaire, avec des consignes précises à respecter.
+Ce projet était une **suite logique** du travail effectué lors de la [SAE 1.01 - Implémentation](Portfolio/S102_Comparaisond'algo.md), et reprenait une structure similaire, avec des consignes précises à respecter.
 
 ---
 
