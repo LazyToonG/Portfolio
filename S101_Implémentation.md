@@ -37,6 +37,6 @@ Il y avait en totale 7 questions dans cette SAE mais ce n'est pour autant que c'
 
 Lors de cette Sae on nous a fait travailler et améliorer nos compétences sur le langage de programmation python, plus précisément sur le concept des tableaux/liste et dictionnaire pour comprendre et analyser comment les valeurs agissent entre elles.
 
-## Voici un extrait du sujet:
+## Voici un extrait du sujet :
 
 ![Extrait du sujet](https://imgur.com/F88F2Kb.png)
