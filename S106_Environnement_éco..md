@@ -42,3 +42,5 @@ Cette SAE nous a permis de :
 ## Conclusion
 
 Ce projet nous a sensibilisés aux **conséquences écologiques de nos usages numériques**. Travailler sur un cas concret comme OVHcloud nous a aidés à **mieux comprendre les défis actuels du secteur**, tout en nous donnant l’occasion de **réfléchir à des solutions durables et innovantes**.
+
+[Retour vers le sommaire](A.Sommaire.md)
