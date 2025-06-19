@@ -1,39 +1,66 @@
-<h1>S1.05 - Recueil de besoins</h1>
+# S1.05 - Recueil de besoins
 
-<p>Dans ce projet, répartie par groupe de huit personnes, avait pour but d'améliorer l’espace consacré à la vie étudiante et à la formation dans l’IUT de Sorbonne Paris Nord à Villetaneuse. Ceci signifie qu'il fallait qu'on se constate en groupe pour réfléchir/brainstormer sur les différentes problématiques présentes dans l'iut, pour par la suite garder les sujets les plus pertinents qui peuvent être transformés en questions, qu'on mettra dans un formulaire visant à obtenir l'avis des étudiants.  Après avoir récupéré ces données, on devait rédiger un rapport entier.</p>
-<p>Voici trois questions qu'on a penser être pertinentes :</p>
-```
-Les dispositifs pour les personnes à mobilité réduite sont-ils suffisants ?
-Les réponses possibles pour cette question sont :
--​ Oui, complètement
--​ Partiellement suffisant
--​ Pas suffisant
--​ Je ne sais pas
+Dans ce projet, nous étions répartis en **groupes de huit personnes**. L’objectif principal était d’**améliorer l’espace dédié à la vie étudiante et à la formation** au sein de l’IUT de Sorbonne Paris Nord, situé à Villetaneuse.
 
-​Les pratiques actuelles en matière d’écologie à l’IUT vous paraissent-elles suffisantes ?
-Les réponses possibles pour cette question sont :
--​ Très satisfaisante
--​ Satisfaisante
--​ Moyennement satisfaisante
--​ Insatisfaisante
+---
 
-​Est-ce que vous pensez que le programme offre un bon équilibre entre la théorie et la pratique ?
-Les réponses possibles pour cette question sont :
--​ Oui, tout à fait
--​ Plutôt oui
--​ Plutôt non
--​ Non, pas du tout
-```
-<p>Ceci n'est qu'une partie des 21 questions totaux effectués, il y des questions ayant comme style qcm ou bien des questions ouvertes.</p>
+## Objectif du projet
 
-<p>Ce projet nous a permis d'approfondir notre pensée sur les moyens d'observer et de se questionner sur ce qui ce trouve autour de nous. Aussi de savoir effectuer un travail en équipe, pour le rappeler huit personnes, qui peut être des fois difficiles d'avoir une cohésion de groupe correcte.</p>
+Le but était de réfléchir, en groupe, aux **problématiques rencontrées au sein de l’IUT**, en lien avec les étudiants, les locaux, ou encore les pratiques pédagogiques. Pour cela, nous avons procédé par étapes :
 
-<p>Extrait du contexte:</p>
+1. **Brainstorming** pour identifier un maximum d'idées et de problèmes potentiels ;
+2. **Sélection des problématiques les plus pertinentes** à transformer en **questions de sondage** ;
+3. **Rédaction et diffusion d’un formulaire** auprès des étudiants de l’IUT ;
+4. **Analyse des réponses** ;
+5. Rédaction d’un **rapport synthétisant les résultats** et les **axes d’amélioration** proposés.
+
+---
+
+## Exemples de questions du formulaire
+
+Voici trois exemples de questions que nous avons considérées comme pertinentes pour notre enquête :
+
+### 1. Accessibilité
+**Les dispositifs pour les personnes à mobilité réduite sont-ils suffisants ?**  
+Réponses possibles :
+- Oui, complètement  
+- Partiellement suffisant  
+- Pas suffisant  
+- Je ne sais pas  
+
+### 2. Écologie
+**Les pratiques actuelles en matière d’écologie à l’IUT vous paraissent-elles suffisantes ?**  
+Réponses possibles :
+- Très satisfaisantes  
+- Satisfaisantes  
+- Moyennement satisfaisantes  
+- Insatisfaisantes  
+
+### 3. Équilibre théorie/pratique
+**Pensez-vous que le programme offre un bon équilibre entre la théorie et la pratique ?**  
+Réponses possibles :
+- Oui, tout à fait  
+- Plutôt oui  
+- Plutôt non  
+- Non, pas du tout  
+
+> 🔎 Le questionnaire complet comportait **21 questions**, mêlant **QCM** et **questions ouvertes** pour recueillir à la fois des données quantitatives et des retours qualitatifs.
+
+---
+
+## Compétences développées
+
+Ce projet nous a permis de :
+
+- Apprendre à **analyser un environnement réel** (notre IUT) avec un regard critique ;
+- Travailler en **groupe élargi (8 personnes)**, ce qui demande rigueur, communication, et esprit d’équipe ;
+- Créer un **questionnaire pertinent et structuré** ;
+- Synthétiser les résultats et proposer des **pistes d’amélioration concrètes**.
+
+C’était un travail orienté sur l’**observation, l’analyse des besoins** et la **communication** avec les usagers d’un lieu (les étudiants dans ce cas).
+
+---
+
+## Extrait du contexte du projet
+
 ![Extrait du contexte](https://imgur.com/aSNmlMO.png)
-
-
-
-
-
-
-
