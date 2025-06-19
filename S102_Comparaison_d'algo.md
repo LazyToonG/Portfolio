@@ -48,6 +48,6 @@ Lors de la réalisation de ce projet on a appréhender le concept de chronométr
 
 ![Extrait du travail effectuer pour la SAE 102](https://imgur.com/8eIOXa2.png)
 
-[← Page précédente](S101_Implémentation.md) | [Retour vers le sommaire](A.Sommaire.md)
+[← Page précédente](S101_Implémentation.md) | [Retour vers le sommaire](A.Sommaire.md) | [Suivant →](S103_Installation_poste.md)
 
 
