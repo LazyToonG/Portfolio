@@ -61,6 +61,6 @@ C’était un travail orienté sur l’**observation, l’analyse des besoins** 
 
 ---
 
-## Extrait du contexte du projet
+## Extrait du contexte du projet :
 
 ![Extrait du contexte](https://imgur.com/aSNmlMO.png)
