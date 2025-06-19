@@ -44,4 +44,4 @@ Nous avons utilisé le système Linux, et plus précisément **Xubuntu**, car :
 
 ![Extrait de la feuille de l'énoncé](https://imgur.com/nDF6tyg.png)
 
-[Retour vers le sommaire](A.Sommaire.md)
+[← Page précédente](S102_Comparaison_d'algo.md) | [Retour vers le sommaire](A.Sommaire.md) | [Suivant →](S104_Création_BD.md)
