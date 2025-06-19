@@ -44,6 +44,6 @@ print(round(1000 * (tac - tic), 2), "ms")  # Affichage du temps en millisecondes
 ```
 Lors de la réalisation de ce projet on a appréhender le concept de chronométrage d'une fonction/code et la réflexion sur la création d'un code pour permettre un tri efficace tout ça dans le langage de programmation python.
 
-## Extrait du travail effectuer pour la SAE 102:
+## Extrait du travail effectuer pour la SAE 102 :
 
 ![Extrait du travail effectuer pour la SAE 102](https://imgur.com/8eIOXa2.png)
