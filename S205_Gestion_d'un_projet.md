@@ -45,4 +45,4 @@ Nous avons également appris à **réagir face aux imprévus** et à **structure
 
 Cette SAE nous a offert un **aperçu concret de la gestion de projet**, dans un cadre à la fois **réaliste et actif**. Elle nous a fait comprendre l’importance de la **préparation, de la planification et de la prise de décision en équipe**, des compétences clés pour tout projet, qu’il soit professionnel ou personnel.
 
-[Retour vers le sommaire](A.Sommaire.md)
+[← Page précédente](S201_Développement_d'une_application.md) | [Retour vers le sommaire](A.Sommaire.md)
