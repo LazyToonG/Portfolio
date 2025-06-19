@@ -80,4 +80,5 @@ public class Echiquier {
 ---
 
 ## Extrait de l'énoncé
+
 ![Extrait de l'énoncé](https://imgur.com/rw2uScm.png)
