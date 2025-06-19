@@ -83,4 +83,4 @@ public class Echiquier {
 
 ![Extrait de l'énoncé](https://imgur.com/rw2uScm.png)
 
-[Retour vers le sommaire](A.Sommaire.md)
+[← Page précédente](S106_Environnement_éco..md) | [Retour vers le sommaire](A.Sommaire.md) | [Suivant →](S205_Gestion_d'un_projet.md)
