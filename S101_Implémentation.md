@@ -1,4 +1,4 @@
-# SAE 1.01 - Implémentation
+# S1.01 - Implémentation
 
 Dans ce projet universitaire, réalisé en binôme, nous devions créer une simulation d'interactions entre des personnes fictives, à la manière d’un réseau social, en utilisant le langage de programmation Python.  
 
