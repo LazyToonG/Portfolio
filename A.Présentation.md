@@ -8,4 +8,7 @@ Je suis toujours très à l’écoute et je fais de mon mieux pour comprendre le
 
 Je reste motivé et prêt à apprendre continuellement pour progresser dans ce domaine qui me passionne.
 
+# Point forts 
+# Point faibles 
+
 Vous pouver naviguez avec les onglets à gauche de l'écran ou via le [Sommaire](A.Sommaire.md)
