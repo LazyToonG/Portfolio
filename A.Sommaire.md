@@ -8,6 +8,8 @@
 - [S1.06 - Environnement économique et écologique du numérique](S106_Environnement_éco..md)
 - [S2.01 - Développement d'une application](S201_Développement_d'une_application.md)
 - [S2.05 - Gestion d’un projet](S205_Gestion_d'un_projet.md)
+- [S3.01 - Développement d'une application](S301_Développement_d'une_application.md)
+- [S4.01 - Développement d'une application](S401_Développement_d'une_application.md)
 
 ---
 
