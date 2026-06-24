@@ -73,4 +73,4 @@ Je voudrais aussi améliorer les dispositions des boutons concernant les lecteur
 
 J'ai remarquer qu'a la fin je devais me dépecher de finir mon travail car la date de rendu était proche et dû à cela je n'ai pas pus faire exactement ce que je souhaitais. Pour éviter cela je devrais mieux gérer mon temps, j'ai utiliser beaucoup de mon temps à lire des ocumentation pour trouver ce qu'il me fallait mais maintenant que je sais ça sera bien plus simple pour avancer.
 
-[← Page précédente](S205_Gestion_d'un_projet.md) | [Retour vers le sommaire](A.Sommaire.md)
+[← Page précédente](S205_Gestion_d'un_projet.md) | [Retour vers le sommaire](A.Sommaire.md) | [Suivant →](S401_Développement_d'une_application.md)
